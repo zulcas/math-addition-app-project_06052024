@@ -1,4 +1,5 @@
 //generate random numbers. Utilizo la biblioteca Chance !
+// https://chancejs.com/basics/integer.html
 
 let firstNumber = chance.integer({ min: 0, max: 10 })
 
