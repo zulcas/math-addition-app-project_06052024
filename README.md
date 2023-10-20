@@ -7,4 +7,6 @@
 
 ```let valor = document.querySelector('#id-input').value ```
 
+5. Fijate que el resultado esperado es un pelín diferente de la Demo. Preferimos poner un mensaje de si la suma ha ido bien o mal en el propio HTML, mejor que un "alert"
+
 [Demo](https://js-beginners.github.io/math-addition-app-project/)
