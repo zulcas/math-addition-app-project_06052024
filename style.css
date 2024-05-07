@@ -10,7 +10,7 @@ body {
     background: yellow;
     width: 700px;
     height: 300px;
-    margin: 50px auto;
+    margin: 30px auto;
 }
 
 #primary-number,
@@ -61,4 +61,8 @@ button {
     background: red;
     color: white;
     border: 1px solid lightgrey;
+}
+.reset{
+    text-align: center;
+    margin-bottom: 30px;
 }
